@@ -1,4 +1,5 @@
 # scrapper to pull location of each listed item
+
 from lxml import html
 import requests
 from bs4 import BeautifulSoup 
